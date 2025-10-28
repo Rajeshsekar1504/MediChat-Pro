@@ -6,4 +6,4 @@ fpdf
 pypdf
 euriai 
 langchain_community
-fpdf
+faiss-cpu
