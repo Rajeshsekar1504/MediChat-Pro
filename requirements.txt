@@ -2,3 +2,8 @@ streamlit
 langchain==0.3.27
 langchain-text-splitters
 sentence-transformers
+fpdf
+pypdf
+euriai 
+langchain_community
+fpdf
