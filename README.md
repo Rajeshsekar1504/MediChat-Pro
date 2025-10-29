@@ -31,7 +31,7 @@ The application uses a **Retrieval-Augmented Generation (RAG)** pipeline to retr
 - [Streamlit](https://streamlit.io/) – Frontend & App Framework  
 - [FAISS](https://github.com/facebookresearch/faiss) – Vector Database  
 - [LangChain](https://www.langchain.com/) – RAG Pipeline  
-- [OpenAI API](https://platform.openai.com/) – Large Language Model  
+- [EURI API](https://platform.Euron.com/) – Large Language Model  
 - [PyPDF2 / pdfplumber] – PDF text extraction  
 
 ---
@@ -60,7 +60,7 @@ The application uses a **Retrieval-Augmented Generation (RAG)** pipeline to retr
 ---
 ## Streamlit-App
 
- **Application is up and running at:** [MediChat-Pro (Streamlit)][([https://medichat-pro3na87robjjxzzxmpmw9scz.streamlit.app]
+ **Application is up and running at:** [MediChat-Pro (Streamlit)](https://medichat-pro-3na87robjjxzzxmpmw9scz.streamlit.app)
 
 > Built with Streamlit, LangChain and Hugging Face embeddings — upload medical documents and chat with them.
 
