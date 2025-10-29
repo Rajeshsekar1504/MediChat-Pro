@@ -60,6 +60,13 @@ The application uses a **Retrieval-Augmented Generation (RAG)** pipeline to retr
 ---
 ## Streamlit-App
 
+ **Application is up and running at:** [MediChat-Pro (Streamlit)][([https://medichat-pro3na87robjjxzzxmpmw9scz.streamlit.app]
+
+> Built with Streamlit, LangChain and Hugging Face embeddings — upload medical documents and chat with them.
+
+
+## Render-App
+
 - **Application is up and running at:** [MediChat-Pro on Render](https://medichat-pro.onrender.com)
 - **Demo:** [MediChat-Pro in Action](https://medichat-pro.onrender.com)
 
